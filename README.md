@@ -10,16 +10,20 @@ This repository contains implementations of **array-based lists** and **linked l
 - **Pascal**
 
 ## Repository Structure
-Programming-languages-assignment/
-├─ C/
-│ ├─ array_list.c
-│ └─ linked_list.c
-├─ Java/
-│ ├─ ArrayListImpl.java
-│ └─ LinkedListImpl.java
-├─ Python/
-│ ├─ array_list.py
-│ └─ linked_list.py
-└─ Pascal/
-├─ array_list.pas
-└─ linked_list.pas
+
+- **C**
+  - `array_list.c`
+  - `linked_list.c`
+
+- **Java**
+  - `ArrayListImpl.java`
+  - `LinkedListImpl.java`
+
+- **Pascal**
+  - `array_list.pas`
+  - `linked_list.pas`
+
+- **Python**
+  - `array_list.py`
+  - `linked_list.py`
+
